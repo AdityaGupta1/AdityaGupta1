@@ -1,6 +1,6 @@
 ### Hello!
 
-I'm Aditya, currently a junior studying Digital Media Design at the University of Pennsylvania. I like to make Minecraft mods, watch anime, and bake bread. Check out my [demo reel](https://youtu.be/C2lV9oWdVKY) and some of my projects:
+I'm Aditya, currently a junior studying Digital Media Design at the University of Pennsylvania. I like to make Minecraft mods, watch anime, and bake bread. Check out my [demo reel](https://youtu.be/6wPzVC19TbY) and some of my projects:
 
 ## [Mini Minecraft](https://youtu.be/oBTmpCafD50)
 Minecraft with various unique biomes and shader features, made with C++, Qt, and OpenGL (links to YouTube, source code available upon request)
