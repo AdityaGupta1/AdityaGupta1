@@ -1,3 +1,5 @@
 ### Hello!
 
-I'm Aditya, currently a graduate student studying Computer Graphics and Game Technology at the University of Pennsylvania. Check out my [personal website](http://adityag1.com/) to see my projects, art, and more.
+I'm Aditya, and I work on the forefront of real-time rendering at NVIDIA :3
+
+Check out my [personal website](http://adityag1.com/) to see my projects, art, and more.
